@@ -1,0 +1,1 @@
+console.log(`I am running in ${process.env.ENV_NAME}`);
